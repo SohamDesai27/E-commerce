@@ -1,5 +1,5 @@
 # Ecommerce-Project
-Final Year Project for students as Ecommerce website especially different webpages. Top class Website Development project that made by combination of front end programming languages such as HTML, CSS &amp; JS.
+This project entails the creation of a high-quality Ecommerce website, encompassing a diverse range of webpages. It is distinguished by its robust development, achieved through the seamless integration of front-end programming languages, including HTML, CSS, and JavaScript. This convergence of technologies ensures a top-tier user experience, elevating the website's aesthetic and functional aspects, thus, reflecting a strong commitment to front-end development best practices.
 
 ### Click on play button see Demo:
 
